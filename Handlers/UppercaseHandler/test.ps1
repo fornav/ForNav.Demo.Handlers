@@ -1,0 +1,1 @@
+.\handler.ps1 .\sample-input.json .\sample-output.json
